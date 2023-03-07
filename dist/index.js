@@ -1,1 +1,2 @@
-da build xong
+// da build xong
+export default done = true;
